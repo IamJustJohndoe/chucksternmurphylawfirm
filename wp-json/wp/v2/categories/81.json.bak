@@ -1,0 +1,122 @@
+{
+  "id": 81,
+  "count": 2,
+  "description": "",
+  "link": "https:\/\/murphlaw.net\/2021\/",
+  "name": "2021",
+  "slug": "2021",
+  "taxonomy": "category",
+  "parent": 0,
+  "meta": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v26.9 - https:\/\/yoast.com\/product\/yoast-seo-wordpress\/ -->\n<title>2021 Archives - Chuck T. Murphy | Attorneys at Law<\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"http:\/\/murphlaw.net\/2021\/\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"2021 Archives - Chuck T. Murphy | Attorneys at Law\" \/>\n<meta property=\"og:url\" content=\"http:\/\/murphlaw.net\/2021\/\" \/>\n<meta property=\"og:site_name\" content=\"Chuck T. Murphy | Attorneys at Law\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"http:\/\/murphlaw.net\/2021\/\",\"url\":\"http:\/\/murphlaw.net\/2021\/\",\"name\":\"2021 Archives - Chuck T. Murphy | Attorneys at Law\",\"isPartOf\":{\"@id\":\"http:\/\/murphlaw.net\/#website\"},\"breadcrumb\":{\"@id\":\"http:\/\/murphlaw.net\/2021\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"http:\/\/murphlaw.net\/2021\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"http:\/\/murphlaw.net\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"2021\"}]},{\"@type\":\"WebSite\",\"@id\":\"http:\/\/murphlaw.net\/#website\",\"url\":\"http:\/\/murphlaw.net\/\",\"name\":\"Chuck T. Murphy | Attorneys at Law\",\"description\":\"Representing clients in business transactions and civil litigation handling business law, corporate law, employment law, real estate transactions, fraud, unfair business practices, estate planning, trusts and wills, personal injury, wrongful death, intellectual property, breach of contract, and more.\",\"publisher\":{\"@id\":\"http:\/\/murphlaw.net\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"http:\/\/murphlaw.net\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"http:\/\/murphlaw.net\/#organization\",\"name\":\"Chuckstern Murphy Law Firm\",\"url\":\"http:\/\/murphlaw.net\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"http:\/\/murphlaw.net\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/murphlaw.net\/wp-content\/uploads\/2016\/01\/Law-Office-Picture.jpg\",\"contentUrl\":\"https:\/\/murphlaw.net\/wp-content\/uploads\/2016\/01\/Law-Office-Picture.jpg\",\"width\":2048,\"height\":1365,\"caption\":\"Chuckstern Murphy Law Firm\"},\"image\":{\"@id\":\"http:\/\/murphlaw.net\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/Law-Offices-of-Michael-C-Murphy-1507880812857056\/?pnref=lhc\",\"https:\/\/www.linkedin.com\/company\/10406617?trk=tyah&amp;amp;trkInfo=clickedVertical:company,entityType:entityHistoryName,clickedEntityId:company_company_company_10406617,idx:1\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "2021 Archives - Chuck T. Murphy | Attorneys at Law",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "http:\/\/murphlaw.net\/2021\/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "2021 Archives - Chuck T. Murphy | Attorneys at Law",
+    "og_url": "http:\/\/murphlaw.net\/2021\/",
+    "og_site_name": "Chuck T. Murphy | Attorneys at Law",
+    "twitter_card": "summary_large_image",
+    "schema": {
+      "@context": "https:\/\/schema.org",
+      "@graph": [
+        {
+          "@type": "CollectionPage",
+          "@id": "http:\/\/murphlaw.net\/2021\/",
+          "url": "http:\/\/murphlaw.net\/2021\/",
+          "name": "2021 Archives - Chuck T. Murphy | Attorneys at Law",
+          "isPartOf": { "@id": "http:\/\/murphlaw.net\/#website" },
+          "breadcrumb": { "@id": "http:\/\/murphlaw.net\/2021\/#breadcrumb" },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "http:\/\/murphlaw.net\/2021\/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "http:\/\/murphlaw.net\/"
+            },
+            { "@type": "ListItem", "position": 2, "name": "2021" }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "http:\/\/murphlaw.net\/#website",
+          "url": "http:\/\/murphlaw.net\/",
+          "name": "Chuck T. Murphy | Attorneys at Law",
+          "description": "Representing clients in business transactions and civil litigation handling business law, corporate law, employment law, real estate transactions, fraud, unfair business practices, estate planning, trusts and wills, personal injury, wrongful death, intellectual property, breach of contract, and more.",
+          "publisher": { "@id": "http:\/\/murphlaw.net\/#organization" },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "http:\/\/murphlaw.net\/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "http:\/\/murphlaw.net\/#organization",
+          "name": "Chuckstern Murphy Law Firm",
+          "url": "http:\/\/murphlaw.net\/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "http:\/\/murphlaw.net\/#\/schema\/logo\/image\/",
+            "url": "https:\/\/murphlaw.net\/wp-content\/uploads\/2016\/01\/Law-Office-Picture.jpg",
+            "contentUrl": "https:\/\/murphlaw.net\/wp-content\/uploads\/2016\/01\/Law-Office-Picture.jpg",
+            "width": 2048,
+            "height": 1365,
+            "caption": "Chuckstern Murphy Law Firm"
+          },
+          "image": { "@id": "http:\/\/murphlaw.net\/#\/schema\/logo\/image\/" },
+          "sameAs": [
+            "https:\/\/www.facebook.com\/Law-Offices-of-Michael-C-Murphy-1507880812857056\/?pnref=lhc",
+            "https:\/\/www.linkedin.com\/company\/10406617?trk=tyah&amp;amp;trkInfo=clickedVertical:company,entityType:entityHistoryName,clickedEntityId:company_company_company_10406617,idx:1"
+          ]
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https:\/\/murphlaw.net\/wp-json\/wp\/v2\/categories\/81",
+        "targetHints": { "allow": ["GET"] }
+      }
+    ],
+    "collection": [
+      { "href": "https:\/\/murphlaw.net\/wp-json\/wp\/v2\/categories" }
+    ],
+    "about": [
+      {
+        "href": "https:\/\/murphlaw.net\/wp-json\/wp\/v2\/taxonomies\/category"
+      }
+    ],
+    "wp:post_type": [
+      { "href": "https:\/\/murphlaw.net\/wp-json\/wp\/v2\/posts?categories=81" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https:\/\/api.w.org\/{rel}", "templated": true }
+    ]
+  }
+}

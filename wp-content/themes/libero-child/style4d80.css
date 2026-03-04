@@ -1,0 +1,37 @@
+/*
+Theme Name: Libero Child
+Theme URI: http://libero.mikado-themes.com/
+Description: A child theme of Libero Theme
+Author: Mikado Themes
+Author URI: http://themeforest.net/user/mikado-themes
+Version: 1.0.0
+Template: libero
+*/
+
+header.mkd-page-header > div.mkd-sticky-header  div.mkd-position-right > div {
+	display:none;
+}
+@media only screen and (max-width: 1200px) {
+    .mkd-page-header {
+        display:none !important
+    }
+
+    .mkd-mobile-header {
+        display: block !important
+    }
+}
+
+@media only screen and (max-width: 768px) {
+ .mkd-mobile-header .mkd-mobile-logo-wrapper img {
+    height: auto;
+    width: auto;
+    max-width: 283px;
+}
+
+.mkd-footer-inner .mkd-column {
+    width: 100% !important;
+}
+footer .mkd-footer-top-holder .mkd-footer-top-columns>.mkd-two-columns-50-50-inner .mkd-column:first-child:after {
+    background-color: transparent !important;
+}
+}

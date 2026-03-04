@@ -1,0 +1,66 @@
+/* generated in /home1/murphycmike/public_html/wp-content/themes/libero/assets/custom-styles/general-custom-styles.php libero_mikado_design_styles function */
+.mkd-preload-background { background-image: url(../img/preload_pattern.png) !important;}
+
+/* generated in /home1/murphycmike/public_html/wp-content/themes/libero/assets/custom-styles/general-custom-styles.php libero_mikado_design_styles function */
+body { font-family: Open Sans;}
+
+/* generated in /home1/murphycmike/public_html/wp-content/themes/libero/assets/custom-styles/general-custom-styles.php libero_mikado_design_styles function */
+.mkd-boxed .mkd-wrapper { background-attachment: fixed;}
+
+/* generated in /home1/murphycmike/public_html/wp-content/themes/libero/assets/custom-styles/general-custom-styles.php libero_mikado_h6_styles function */
+h6 { font-size: 13px;line-height: 14px;font-weight: 900;}
+
+/* generated in /home1/murphycmike/public_html/wp-content/themes/libero/assets/custom-styles/general-custom-styles.php libero_mikado_text_styles function */
+p { color: #000000;font-size: 18px;}
+
+/* generated in /home1/murphycmike/public_html/wp-content/themes/libero/assets/custom-styles/general-custom-styles.php libero_mikado_sidebar_styles function */
+.mkd-sidebar { text-align: left;}
+
+/* generated in /home1/murphycmike/public_html/wp-content/themes/libero/framework/modules/footer/custom-styles/footer.php libero_mikado_footer_top_style function */
+footer .mkd-footer-top-holder { background-image: url(../../../../uploads/2015/12/footer-background.jpg);}
+
+/* generated in /home1/murphycmike/public_html/wp-content/themes/libero/framework/modules/header/custom-styles/header.php libero_mikado_header_standard_area_styles function */
+.mkd-header-standard .mkd-page-header .mkd-logo-area { height: 150px;}
+
+/* generated in /home1/murphycmike/public_html/wp-content/themes/libero/framework/modules/header/custom-styles/header.php libero_mikado_header_standard_area_styles function */
+.mkd-header-top-left-widget #lang_sel > ul > li, .mkd-header-top-right-widget #lang_sel > ul > li { height: 150px;line-height: 148px;}
+
+/* generated in /home1/murphycmike/public_html/wp-content/themes/libero/framework/modules/header/custom-styles/header.php libero_mikado_header_standard_area_styles function */
+.mkd-side-menu .mkd-close-side-menu-holder { height: 150px;}
+
+/* generated in /home1/murphycmike/public_html/wp-content/themes/libero/framework/modules/header/custom-styles/header.php libero_mikado_header_standard_area_styles function */
+.mkd-menu-area .mkd-main-menu > ul > li > a:after { line-height: 60px;}
+
+/* generated in /home1/murphycmike/public_html/wp-content/themes/libero/framework/modules/header/custom-styles/header.php libero_mikado_header_standard_area_styles function */
+.mkd-header-standard .mkd-page-header .mkd-menu-area { height: 60px;}
+
+/* generated in /home1/murphycmike/public_html/wp-content/themes/libero/framework/modules/header/custom-styles/header.php libero_mikado_header_standard_area_styles function */
+.mkd-header-standard .mkd-page-header .mkd-logo-wrapper a { max-height: 135px;}
+
+/* generated in /home1/murphycmike/public_html/wp-content/themes/libero/framework/modules/header/custom-styles/header.php libero_mikado_header_standard_area_styles function */
+.mkd-search-cover, .mkd-search-slide-header-bottom, .mkd-search-slide-header-bottom.mkd-animated { left: -210px;}
+
+/* generated in /home1/murphycmike/public_html/wp-content/themes/libero/framework/modules/header/custom-styles/header.php libero_mikado_header_standard_area_styles function */
+.mkd-search-cover, .mkd-search-slide-header-bottom, .mkd-search-slide-header-bottom.mkd-animated { width: calc(100% + 210px);}
+
+/* generated in /home1/murphycmike/public_html/wp-content/themes/libero/framework/modules/header/custom-styles/header.php libero_mikado_main_menu_styles function */
+.mkd-main-menu.mkd-default-nav > ul > li > a, .mkd-page-header #lang_sel > ul > li > a, .mkd-page-header #lang_sel_click > ul > li > a, .mkd-page-header #lang_sel ul > li:hover > a { color: #ffffff;}
+
+/* generated in /home1/murphycmike/public_html/wp-content/themes/libero/framework/modules/header/custom-styles/header.php libero_mikado_main_menu_styles function */
+.mkd-drop-down .second .inner > ul > li > a, .mkd-drop-down .second .inner > ul > li > h4, .mkd-drop-down .wide .second .inner > ul > li > h4, .mkd-drop-down .wide .second .inner > ul > li > a, .mkd-drop-down .wide .second ul li ul li.menu-item-has-children > a, .mkd-drop-down .wide .second .inner ul li.sub ul li.menu-item-has-children > a, .mkd-drop-down .wide .second .inner > ul li.sub .flexslider ul li  h4 a, .mkd-drop-down .wide .second .inner > ul li .flexslider ul li  h4 a, .mkd-drop-down .wide .second .inner > ul li.sub .flexslider ul li  h4, .mkd-drop-down .wide .second .inner > ul li .flexslider ul li  h4, .mkd-main-menu.mkd-default-nav #lang_sel ul li li a, .mkd-main-menu.mkd-default-nav #lang_sel_click ul li ul li a, .mkd-main-menu.mkd-default-nav #lang_sel ul ul a, .mkd-main-menu.mkd-default-nav #lang_sel_click ul ul a { color: #ffffff;}
+
+/* generated in /home1/murphycmike/public_html/wp-content/themes/libero/framework/modules/header/custom-styles/header.php libero_mikado_main_menu_styles function */
+.mkd-drop-down .wide .second .inner > ul > li > a { color: #ffffff;}
+
+/* generated in /home1/murphycmike/public_html/wp-content/themes/libero/framework/modules/header/custom-styles/mobile-header.php libero_mikado_mobile_navigation_styles function */
+.mkd-mobile-header .mkd-mobile-nav { background-color: #000000;}
+
+/* generated in /home1/murphycmike/public_html/wp-content/themes/libero/framework/modules/header/custom-styles/mobile-header.php libero_mikado_mobile_navigation_styles function */
+.mkd-mobile-header .mkd-mobile-nav .mobile_arrow { color: #ffffff;}
+
+/* generated in /home1/murphycmike/public_html/wp-content/themes/libero/framework/modules/header/custom-styles/mobile-header.php libero_mikado_mobile_navigation_styles function */
+.mkd-mobile-header .mkd-mobile-nav a, .mkd-mobile-header .mkd-mobile-nav h4 { color: #ffffff;}
+
+/* generated in /home1/murphycmike/public_html/wp-content/themes/libero/framework/modules/sidearea/custom-styles/sidearea.php libero_mikado_side_area_slide_from_right_type_style function */
+.mkd-side-menu-slide-from-right .mkd-side-menu { right: -30%;width: 30%;}
+
